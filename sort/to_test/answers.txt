@@ -1,11 +1,12 @@
-sort1 uses: TODO
+sort1 uses: Selection Sort
 
-How do you know?: TODO
+How do you know? It repeatedly finds the smallest element in the unsorted portion and swaps it with the first unsorted element.
 
-sort2 uses: TODO
+sort2 uses: Merge Sort
 
-How do you know?: TODO
+How do you know? It divides the list into two halves, sorts them recursively, and merges the sorted halves back together in a merge step.
 
-sort3 uses: TODO
+sort3 uses: Bubble Sort
 
-How do you know?: TODO
+How do you know? With each complete pass, the largest element moves to the end of the list, resembling a "bubbling" effect.
+
